@@ -1,0 +1,10 @@
+body {
+
+    color: #eeeaf1;
+  } 
+
+  .jumbotron {
+    background-image: url("C:/Users/Khashayar/Desktop/UofT_DA/UFOs/images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
