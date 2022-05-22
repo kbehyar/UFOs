@@ -12,7 +12,7 @@ There is a description of how to perform a search, with images. (4 pt)
 
 ![](https://github.com/kbehyar/UFOs/blob/main/images/Search%20engine.PNG)
 
-![](https://github.com/kbehyar/UFOs/blob/main/images/Search%20results.PNG(
+![](https://github.com/kbehyar/UFOs/blob/main/images/Search%20results.PNG)
 
 # Summary
 In a summary statement, describe one drawback of this new design and two recommendations for further development.
