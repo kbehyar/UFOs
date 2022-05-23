@@ -17,8 +17,9 @@ This image shows how the table changes based on the filters the users have appli
 ![](https://github.com/kbehyar/UFOs/blob/main/images/Search%20results.PNG)
 
 # Summary
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+One drawback of this page is that the user is required to enter the filters for the search exactly as they are shown in the table. Entering keywords that do not appear in the table would result in an error and would not display any results.
+
+To improve the user experience, a drop down menu can be implemented where the user is able to choose from the given list. The date filter should also provide the user with a calender like feature where they can choose the date as oppose to entering it themself.
 
 
-    The summary addresses one drawback of this webpage (2 pt)
-    The summary addresses two additional recommendations for further development (4 pt)
